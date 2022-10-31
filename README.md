@@ -30,4 +30,4 @@ DockerでMySQLを利用する授業での課題です。
 - budgeting-app (開発中)  
 授業課題で作成した家計管理アプリを自主的に改良しています。  
 - movie-review (開発中)  
-映画のレビューサイトを、Google言語AIを利用して作成する予定です。
+映画のレビューサイトを、Google Nature Languageを利用して作成する予定です。
