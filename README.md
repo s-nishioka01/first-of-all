@@ -8,7 +8,7 @@
 
 ## 各レポジトリの説明
 - Lesson 1  
-一般的なHelloWorldアプリで、HelloWorldと表示するだけのものです。ですが、GitHub上にはこれだけですが、Javaの開発環境構築などもこの時に行っています。  
+一般的なHelloWorldアプリで、HelloWorldと表示するだけのものです。ですが、GitHub上にはこれだけですが、EclipseなどのJavaの開発環境構築などもこの時に行っています。  
 - Lesson 2  
 基本的なJavaの機能を利用したプログラムです。繰り返しや例外処理などのシンプルなものです。  
 - Lesson 3  
