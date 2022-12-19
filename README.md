@@ -3,7 +3,7 @@
 - このGitHubアカウントでは主にエンジニアスクールRaiseTechでの授業課題のコード・アプリケーションと個人の自主開発アプリケーションを公開しています。
 - "Lesson-"から始まるレポジトリはすべてRaiseTechでの課題です。
 - 使用言語は主にJavaで、フロントエンドにはHTML/CSSを使用しています。
-- WebアプリケーションはSpring Bootを利用して作成し、テンプレートエンジンはThymeleafを使用してHTMLに要素を渡しています。
+- WebアプリケーションはSpring Bootを利用して作成。テンプレートエンジンはThymeleafです。
 - DB環境についてはDockerを利用してMySQL環境を構築し、MyBatisで接続をしています。
 
 ## 各レポジトリの説明
